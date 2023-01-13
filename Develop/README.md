@@ -1,7 +1,4 @@
-
-
-    Project Title: undefined
-    Project Purpose: undefined
-    Technology Used: undefined
-    Developer:undefined
-    
+    Project Title: Readme Generator
+    Project Purpose: To develop a readme file automatically based on user prompts
+    Technology Used: Javascript, Nodejs
+    Developer:Jennifer Hano
